@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Laravel5520/.idea/Laravel5520.iml" filepath="$PROJECT_DIR$/../Laravel5520/.idea/Laravel5520.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appAjax/.idea/appAjax.iml" filepath="$PROJECT_DIR$/../appAjax/.idea/appAjax.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/applogin.iml" filepath="$PROJECT_DIR$/.idea/applogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../food/.idea/food.iml" filepath="$PROJECT_DIR$/../food/.idea/food.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../itplus102019/.idea/itplus102019.iml" filepath="$PROJECT_DIR$/../itplus102019/.idea/itplus102019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../simplephpcart/.idea/simplephpcart.iml" filepath="$PROJECT_DIR$/../simplephpcart/.idea/simplephpcart.iml" />
     </modules>
   </component>
 </project>

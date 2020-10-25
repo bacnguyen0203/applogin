@@ -4,5 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="simplephpcart" />
+    <orderEntry type="module" module-name="Laravel5520" />
+    <orderEntry type="module" module-name="itplus102019" />
+    <orderEntry type="module" module-name="appAjax" />
+    <orderEntry type="module" module-name="food" />
   </component>
 </module>

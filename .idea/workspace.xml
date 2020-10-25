@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51576267-ce2a-4446-84df-0d0ac177e5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/applogin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itplus102019/day 25/namespace/giaiphap/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itplus102019/day 25/namespace/giaiphap/long/sinhvien.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itplus102019/day 25/namespace/giaiphap/tuan/sinhvien.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itplus102019/day 25/namespace/loi1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itplus102019/day 25/namespace/loi2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itplus102019/day 25/namespace/lythuyet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/applogin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/applogin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,24 +19,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../itplus102019" />
   </component>
   <component name="ProjectId" id="1ZcxV8u7j08LwtPBemGyU4ofQ6K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../food" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\itplus102019\day 25\namespace\giaiphap\tuan" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\itplus102019\day 25\namespace\giaiphap\long" />
+      <recent name="C:\xampp\htdocs\itplus102019\day 25\namespace\giaiphap\tuan" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -53,16 +69,36 @@
       <workItem from="1586739931341" duration="3196000" />
       <workItem from="1587110723899" duration="2917000" />
       <workItem from="1587563454531" duration="2455000" />
+      <workItem from="1588670950668" duration="105000" />
+      <workItem from="1588672461179" duration="624000" />
+      <workItem from="1588680272714" duration="2571000" />
+      <workItem from="1588685035251" duration="1996000" />
+      <workItem from="1589037171370" duration="1708000" />
+      <workItem from="1589242586381" duration="839000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1585241157238">
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588671023484">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1920.489.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588671023484" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1589242885412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/-1920.489.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589242885412" />
+    <state x="592" y="219" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588684884456" />
+    <state x="504" y="135" key="NewPhpClassDialog" timestamp="1588685377446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1588685377446" />
+    <state x="635" y="352" key="NewPhpFileDialog" timestamp="1588686239001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
     <state x="794" y="444" key="NewPhpFileDialog/-1920.489.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585241157238" />
+    <state x="635" y="352" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1588686239001" />
   </component>
 </project>
